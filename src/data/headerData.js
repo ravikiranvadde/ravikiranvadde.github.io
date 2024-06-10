@@ -1,9 +1,10 @@
 import resume from '../assets/pdf/resume.pdf'
+import image from '../assets/images/profile.jpg'
 
 export const headerData = {
-    name: 'Jane Doe',
-    title: "Web Developer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
-    image: 'https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/landingImg.png',
+    name: 'Ravi Kiran Vadde',
+    title: "Full Stack Java Developer",
+    desciption:"Full Stack Developer and Technical Lead with expertise in Java, Spring Boot, and microservices architecture, complemented by a recent Master's in Computer Science from Texas Tech University, showcasing a robust skill set in software development, leadership, and continuous learning.",
+    image: image,
     resumePdf: resume
 }

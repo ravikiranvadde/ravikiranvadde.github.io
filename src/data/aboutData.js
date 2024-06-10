@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name's Jane. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
-    image: 2
+    description1: "My name's Ravi Kiran Vadde. I'm a Full Stack Java developer based in Irvine, CA.",
+    description2: "I have a strong command of programming languages, web technologies, cloud platforms, and frameworks like Spring and Hibernate. During my tenure at Tata Consultancy Services, I led teams, optimized processes, and delivered efficient solutions. My projects showcase my ability to design scalable applications using Java EE components and frontend technologies. Additionally, I hold certifications in Full Stack Development, Six Sigma, Java, SQL, and Google IT Support, emphasizing my commitment to continuous learning.",
+    image: 1
 }
