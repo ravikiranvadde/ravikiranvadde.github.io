@@ -2,18 +2,11 @@ export const achievementData = {
     bio : "One of my significant achievements was optimizing email triggering processes using multi-threading in Spring Batch at Tata Consultancy Services. This initiative resulted in an annual cost saving of $40,000 and reduced processing time by 42%, highlighting my skills in improving system efficiency and delivering cost-effective solutions.",
     achievements : [
         {
-            id : 4,
-            title : 'Google IT Support',
-            details : 'Google IT Support Certification validates your expertise and showcases your ability to manage and troubleshoot various IT systems and support end-users, utilizing Google’s technology and tools.',
-            date : 'Feb 23, 2024',
-            image : 'https://53.fs1.hubspotusercontent-na1.net/hub/53/hubfs/image8-2.jpg?width=595&height=400&name=image8-2.jpg'
-        },
-        {
-            id : 3,
-            title : ' IBM Full Stack Software Developer',
-            details : 'IBM Full Stack Developer certification validates your expertise in full stack development and showcases your ability to build, deploy, and manage end-to-end web applications using IBM\'s technology stack and tools.',
-            date : 'May 17, 2024',
-            image : 'https://imageio.forbes.com/specials-images/imageserve/64a8262b79a8b89cb191cf1d/Picture1/960x0.png?format=png&width=1440'
+            id : 1,
+            title : 'Oracle Cloud Data Management 2023 Certified Foundations Associate',
+            details : 'This certification validates foundational knowledge of Oracle Cloud services, including database services, cloud concepts, and data management. It demonstrates the ability to implement and manage Oracle Cloud data solutions effectively.',
+            date : 'Jun 13, 2024',
+            image : 'https://brm-workforce.oracle.com/pdf/certview/images/OCDMF2023.png'
         },
         {
             id : 2,
@@ -23,12 +16,19 @@ export const achievementData = {
             image : 'https://imageio.forbes.com/specials-images/imageserve/64a8262b79a8b89cb191cf1d/Picture1/960x0.png?format=png&width=1440'
         },
         {
-            id : 1,
-            title : 'Oracle Cloud Data Management 2023 Certified Foundations Associate',
-            details : 'This certification validates foundational knowledge of Oracle Cloud services, including database services, cloud concepts, and data management. It demonstrates the ability to implement and manage Oracle Cloud data solutions effectively.',
-            date : 'Jun 13, 2024',
-            image : 'https://brm-workforce.oracle.com/pdf/certview/images/OCDMF2023.png'
-        }
+            id : 3,
+            title : ' IBM Full Stack Software Developer',
+            details : 'IBM Full Stack Developer certification validates your expertise in full stack development and showcases your ability to build, deploy, and manage end-to-end web applications using IBM\'s technology stack and tools.',
+            date : 'May 17, 2024',
+            image : 'https://imageio.forbes.com/specials-images/imageserve/64a8262b79a8b89cb191cf1d/Picture1/960x0.png?format=png&width=1440'
+        },
+        {
+            id : 4,
+            title : 'Google IT Support',
+            details : 'Google IT Support Certification validates your expertise and showcases your ability to manage and troubleshoot various IT systems and support end-users, utilizing Google’s technology and tools.',
+            date : 'Feb 23, 2024',
+            image : 'https://53.fs1.hubspotusercontent-na1.net/hub/53/hubfs/image8-2.jpg?width=595&height=400&name=image8-2.jpg'
+        }     
 
     ]
 }
