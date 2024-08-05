@@ -4,7 +4,7 @@ export const achievementData = {
         {
             id : 1,
             title : 'Oracle Cloud Data Management 2023 Certified Foundations Associate',
-            details : 'This certification validates foundational knowledge of Oracle Cloud services, including database services, cloud concepts, and data management. It demonstrates the ability to implement and manage Oracle Cloud data solutions effectively.',
+            details : 'This certification validates foundational knowledge of Oracle Cloud services. It demonstrates the ability to implement and manage Oracle Cloud data solutions effectively.',
             date : 'Jun 13, 2024',
             image : 'https://brm-workforce.oracle.com/pdf/certview/images/OCDMF2023.png'
         },
