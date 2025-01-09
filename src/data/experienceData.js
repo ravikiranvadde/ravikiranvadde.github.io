@@ -29,7 +29,7 @@ export const experienceData = [
     },
     {
         id: 5,
-        company: 'Wells Fargo',
+        company: 'Verizon',
         jobtitle: 'Java Developer',
         startYear: '2019',
         endYear: '2019'
