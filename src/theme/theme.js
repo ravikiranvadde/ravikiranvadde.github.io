@@ -353,3 +353,134 @@ export const yellowThemeDark = {
     contactsimg: contactsYellow
 }
 
+export const tealThemeLight = {
+    type: 'light',
+    primary: '#00b3b3',  // Teal color
+    primary400: '#008080',
+    primary600: '#006666',
+    primary80: '#00b3b3cc',
+    primary50: '#00b3b380',
+    primary30: '#00b3b34d',
+    secondary: '#eaeaea',
+    secondary70: '#eaeaeab3',
+    secondary50: '#eaeaea80',
+    tertiary: '#212121',
+    tertiary80: '#212121cc',
+    tertiary70: '#212121b3',
+    tertiary50: '#21212180',
+    // aboutimg1: tealThemeboy,
+    // aboutimg2: tealThemegirl,
+    // eduimg: eduGreen,  // You can adjust this as needed
+    // expimg: expGreen,  // Adjust accordingly
+    // contactsimg: contactsGreen
+}
+
+export const charcoalGrayThemeLight = {
+    type: 'light',
+    primary: '#333333',  // Charcoal Gray color
+    primary400: '#4A4A4A',
+    primary600: '#212121',
+    primary80: '#333333cc',
+    primary50: '#33333380',
+    primary30: '#3333334d',
+    secondary: '#eaeaea',
+    secondary70: '#eaeaeab3',
+    secondary50: '#eaeaea80',
+    tertiary: '#ffffff',
+    tertiary80: '#ffffffcc',
+    tertiary70: '#ffffffb3',
+    tertiary50: '#ffffff80',
+    // aboutimg1: charcoalGrayThemeboy,
+    // aboutimg2: charcoalGrayThemegirl,
+    // eduimg: eduBlack,
+    // expimg: expBlack,
+    // contactsimg: contactsBlack
+}
+
+export const electricBlueThemeLight = {
+    type: 'light',
+    primary: '#1e90ff',  // Electric Blue color
+    primary400: '#00aaff',
+    primary600: '#0077cc',
+    primary80: '#1e90ffcc',
+    primary50: '#1e90ff80',
+    primary30: '#1e90ff4d',
+    secondary: '#eaeaea',
+    secondary70: '#eaeaeab3',
+    secondary50: '#eaeaea80',
+    tertiary: '#212121',
+    tertiary80: '#212121cc',
+    tertiary70: '#212121b3',
+    tertiary50: '#21212180',
+    // aboutimg1: electricBlueThemeboy,
+    // aboutimg2: electricBlueThemegirl,
+    // eduimg: eduBlue,
+    // expimg: expBlue,
+    // contactsimg: contactsBlue
+}
+
+export const coralThemeLight = {
+    type: 'light',
+    primary: '#FF7F50',  // Coral color
+    primary400: '#FF6A13',
+    primary600: '#FA5624',
+    primary80: '#FF7F50cc',
+    primary50: '#FF7F5080',
+    primary30: '#FF7F504d',
+    secondary: '#eaeaea',
+    secondary70: '#eaeaeab3',
+    secondary50: '#eaeaea80',
+    tertiary: '#212121',
+    tertiary80: '#212121cc',
+    tertiary70: '#212121b3',
+    tertiary50: '#21212180',
+    // aboutimg1: coralThemeboy,
+    // aboutimg2: coralThemegirl,
+    // eduimg: eduOrange,
+    // expimg: expOrange,
+    // contactsimg: contactsOrange
+}
+
+export const darkPurpleThemeLight = {
+    type: 'light',
+    primary: '#6a0dad',  // Dark Purple color
+    primary400: '#800080',
+    primary600: '#762ad9',
+    primary80: '#6a0dadcc',
+    primary50: '#6a0dad80',
+    primary30: '#6a0dad4d',
+    secondary: '#eaeaea',
+    secondary70: '#eaeaeab3',
+    secondary50: '#eaeaea80',
+    tertiary: '#212121',
+    tertiary80: '#212121cc',
+    tertiary70: '#212121b3',
+    tertiary50: '#21212180',
+    // aboutimg1: darkPurpleThemeboy,
+    // aboutimg2: darkPurpleThemegirl,
+    // eduimg: eduPurple,
+    // expimg: expPurple,
+    // contactsimg: contactsPurple
+}
+
+export const limeGreenThemeLight = {
+    type: 'light',
+    primary: '#32CD32',  // Lime Green color
+    primary400: '#00FF00',
+    primary600: '#228B22',
+    primary80: '#32CD32cc',
+    primary50: '#32CD3280',
+    primary30: '#32CD324d',
+    secondary: '#eaeaea',
+    secondary70: '#eaeaeab3',
+    secondary50: '#eaeaea80',
+    tertiary: '#212121',
+    tertiary80: '#212121cc',
+    tertiary70: '#212121b3',
+    tertiary50: '#21212180',
+    // aboutimg1: limeGreenThemeboy,
+    // aboutimg2: limeGreenThemegirl,
+    // eduimg: eduGreen,
+    // expimg: expGreen,
+    // contactsimg: contactsGreen
+}

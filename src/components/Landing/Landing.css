@@ -88,6 +88,8 @@
   font-weight: 500;
   font-size: 1.15rem;
   opacity: 0.7;
+  text-align: justify; /* Justified alignment for description */
+  line-height: 1.6; /* Optional: For better readability */
 }
 
 .lcr-buttonContainer {
@@ -203,7 +205,7 @@
   }
   .lcr--content p {
     font-size: 0.95rem;
-    text-align: center;
+    text-align: justify; /* Justified text for smaller screens */
     margin: 0 auto;
     width: 90%;
   }
@@ -223,6 +225,7 @@
     margin-top: 35%;
   }
 }
+
 @media (max-width: 370px) {
   .lcr--content {
     margin-top: 60%;
