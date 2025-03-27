@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.96ccb336.chunk.css",
-    "main.js": "/static/js/main.c96e1cf1.chunk.js",
-    "main.js.map": "/static/js/main.c96e1cf1.chunk.js.map",
+    "main.js": "/static/js/main.f302421b.chunk.js",
+    "main.js.map": "/static/js/main.f302421b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8c85ff4c.js",
     "runtime-main.js.map": "/static/js/runtime-main.8c85ff4c.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
@@ -15,7 +15,7 @@
     "static/css/main.96ccb336.chunk.css.map": "/static/css/main.96ccb336.chunk.css.map",
     "static/js/2.8d5e86c2.chunk.js.LICENSE.txt": "/static/js/2.8d5e86c2.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/BestermindRegular.e58a1922.ttf",
-    "static/media/RaviKiranVadde.f41b0474.pdf": "/static/media/RaviKiranVadde.f41b0474.pdf",
+    "static/media/RaviKiranVadde.9dcb0ff1.pdf": "/static/media/RaviKiranVadde.9dcb0ff1.pdf",
     "static/media/adobe-xd.fa7a22d2.svg": "/static/media/adobe-xd.fa7a22d2.svg",
     "static/media/adobeaudition.dd56aeda.svg": "/static/media/adobeaudition.dd56aeda.svg",
     "static/media/after-effects.16f048ca.svg": "/static/media/after-effects.16f048ca.svg",
@@ -146,6 +146,6 @@
     "static/css/2.19627560.chunk.css",
     "static/js/2.8d5e86c2.chunk.js",
     "static/css/main.96ccb336.chunk.css",
-    "static/js/main.c96e1cf1.chunk.js"
+    "static/js/main.f302421b.chunk.js"
   ]
 }
