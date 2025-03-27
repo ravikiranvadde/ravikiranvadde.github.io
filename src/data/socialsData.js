@@ -1,7 +1,7 @@
 export const socialsData = {
     github: 'https://github.com/ravikiranvadde',
     facebook: 'https://www.facebook.com/bunty.ravi.50',
-    linkedIn: 'https://www.linkedin.com/in/ravi-kiran-vadde-013460150/',
+    linkedIn: 'https://www.linkedin.com/in/vadderavikiran/',
     instagram: 'https://www.instagram.com/',
     codepen: 'https://codepen.io/',
     twitter: 'https://twitter.com/',
