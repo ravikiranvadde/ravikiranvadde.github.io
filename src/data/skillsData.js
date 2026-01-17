@@ -1,9 +1,11 @@
  export const skillsData = [
     'Java',
+    'Python',
     'Spring',
     'HTML',
     'CSS',
     'Javascript',
+    'Typescript',
     'React',
     'Angular',
     'MongoDB',
