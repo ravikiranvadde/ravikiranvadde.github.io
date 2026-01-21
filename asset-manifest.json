@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ravikiranvadde.github.io/static/css/main.16d43036.chunk.css",
-    "main.js": "/ravikiranvadde.github.io/static/js/main.9ea7b8a3.chunk.js",
-    "main.js.map": "/ravikiranvadde.github.io/static/js/main.9ea7b8a3.chunk.js.map",
-    "runtime-main.js": "/ravikiranvadde.github.io/static/js/runtime-main.9f3acfa4.js",
-    "runtime-main.js.map": "/ravikiranvadde.github.io/static/js/runtime-main.9f3acfa4.js.map",
-    "static/css/2.4d07312e.chunk.css": "/ravikiranvadde.github.io/static/css/2.4d07312e.chunk.css",
-    "static/js/2.8d5e86c2.chunk.js": "/ravikiranvadde.github.io/static/js/2.8d5e86c2.chunk.js",
-    "static/js/2.8d5e86c2.chunk.js.map": "/ravikiranvadde.github.io/static/js/2.8d5e86c2.chunk.js.map",
-    "static/js/3.0277a1e4.chunk.js": "/ravikiranvadde.github.io/static/js/3.0277a1e4.chunk.js",
-    "static/js/3.0277a1e4.chunk.js.map": "/ravikiranvadde.github.io/static/js/3.0277a1e4.chunk.js.map",
+    "main.css": "/ravikiranvadde.github.io/static/css/main.eb65ac4f.chunk.css",
+    "main.js": "/ravikiranvadde.github.io/static/js/main.df561f67.chunk.js",
+    "main.js.map": "/ravikiranvadde.github.io/static/js/main.df561f67.chunk.js.map",
+    "runtime-main.js": "/ravikiranvadde.github.io/static/js/runtime-main.260b5edd.js",
+    "runtime-main.js.map": "/ravikiranvadde.github.io/static/js/runtime-main.260b5edd.js.map",
+    "static/css/2.133233a6.chunk.css": "/ravikiranvadde.github.io/static/css/2.133233a6.chunk.css",
+    "static/js/2.8359f03e.chunk.js": "/ravikiranvadde.github.io/static/js/2.8359f03e.chunk.js",
+    "static/js/2.8359f03e.chunk.js.map": "/ravikiranvadde.github.io/static/js/2.8359f03e.chunk.js.map",
+    "static/js/3.def88e14.chunk.js": "/ravikiranvadde.github.io/static/js/3.def88e14.chunk.js",
+    "static/js/3.def88e14.chunk.js.map": "/ravikiranvadde.github.io/static/js/3.def88e14.chunk.js.map",
     "index.html": "/ravikiranvadde.github.io/index.html",
-    "static/css/2.4d07312e.chunk.css.map": "/ravikiranvadde.github.io/static/css/2.4d07312e.chunk.css.map",
-    "static/css/main.16d43036.chunk.css.map": "/ravikiranvadde.github.io/static/css/main.16d43036.chunk.css.map",
-    "static/js/2.8d5e86c2.chunk.js.LICENSE.txt": "/ravikiranvadde.github.io/static/js/2.8d5e86c2.chunk.js.LICENSE.txt",
+    "static/css/2.133233a6.chunk.css.map": "/ravikiranvadde.github.io/static/css/2.133233a6.chunk.css.map",
+    "static/css/main.eb65ac4f.chunk.css.map": "/ravikiranvadde.github.io/static/css/main.eb65ac4f.chunk.css.map",
+    "static/js/2.8359f03e.chunk.js.LICENSE.txt": "/ravikiranvadde.github.io/static/js/2.8359f03e.chunk.js.LICENSE.txt",
     "static/media/index.css": "/ravikiranvadde.github.io/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/adobe-xd.fa7a22d2.svg": "/ravikiranvadde.github.io/static/media/adobe-xd.fa7a22d2.svg",
     "static/media/adobeaudition.dd56aeda.svg": "/ravikiranvadde.github.io/static/media/adobeaudition.dd56aeda.svg",
@@ -141,10 +141,10 @@
     "static/media/yellowTheme-girl.a7ec3ad5.svg": "/ravikiranvadde.github.io/static/media/yellowTheme-girl.a7ec3ad5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9f3acfa4.js",
-    "static/css/2.4d07312e.chunk.css",
-    "static/js/2.8d5e86c2.chunk.js",
-    "static/css/main.16d43036.chunk.css",
-    "static/js/main.9ea7b8a3.chunk.js"
+    "static/js/runtime-main.260b5edd.js",
+    "static/css/2.133233a6.chunk.css",
+    "static/js/2.8359f03e.chunk.js",
+    "static/css/main.eb65ac4f.chunk.css",
+    "static/js/main.df561f67.chunk.js"
   ]
 }
